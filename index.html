@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Quiz Aplication</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <!-- first page -->
+    <div id="welcomepage">
+        <div><h1 id="heading">Awesome Quiz!!</h1></div>
+        <button id="start">Start Quiz</button>
+    </div>
+    <!-- quiz page -->
+    <div id="quizpage" style="display: none;">
+    <h2 id="question-title">Quiz Started!</h2>
+    <p id="question-text">Question will go here...</p>
+
+    <div id="options">
+        <button class="option-button">Option A</button>
+        <button class="option-button">Option B</button>
+        <button class="option-button">Option C</button>
+        <button class="option-button">Option D</button>
+    </div>
+     <button id="nextBtn" style="display: none; margin-top: 20px;" class="option-button">Next</button>
+     </div>
+     <!-- final result page -->
+<div id="resultpage" style="display: none; padding: 20px;">
+    <h2>Quiz Completed 🎉</h2>
+    <h3 id="scoreText"></h3>
+    <div id="answers"></div>
+    <button id="restartBtn" class="option-button" style="margin-top: 20px;">Try Again</button>
+</div>
+
+
+</body>
+</html>
