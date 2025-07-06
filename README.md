@@ -23,3 +23,6 @@ During the development lifecycle, I continuously tested the functionality of the
 This project helped me to deepen my understanding of full-stack development principles, even though this specific submission focuses more on the front-end or user-facing side. It reflects my ability to structure a scalable codebase, think through problems logically, and implement modern web technologies in a coherent manner.
 
 Overall, this project is not just a showcase of my technical skills but also of my commitment to writing clean, efficient, and maintainable code. I'm proud of the outcome and excited to share it on GitHub as part of my professional portfolio. I welcome feedback, suggestions, and contributions that can make this project even better in the future.
+
+#OUTPUT# 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ef2b3fcd-eea7-475e-9ec7-30e86da18098" />
